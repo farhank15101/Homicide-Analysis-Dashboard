@@ -1,4 +1,4 @@
-# Homicide-Dashboard
+# Homicide-Analysis-Dashboard
 
 This program creates a dashboard using the Dash framework in Python to showcase several interactive data visualization techniques regarding a comprehensive dataset on reported homicide cases. These data visualization techniques include line graph, bar chart, violin plot, pie chart, choropleth map, heatmap, and more. 
 These data visualization tools were used to uncover important patterns and trends regarding the homicide cases such as homicide rates over time, homicide rates by state, the most frequent age range of perpetrators and victims, the gender distribution among perpetrators and victims, which weapon was used the most, and more.
